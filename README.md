@@ -1,0 +1,3 @@
+just a random python project - super simple.
+
+just enter the amount of money you want to, and you can assign it to goals...
